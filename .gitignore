@@ -1,0 +1,22 @@
+# Build
+
+build/
+target/
+bin/
+
+# IntelliJ IDEA Files
+
+.idea
+*.iws
+*.iml
+*.ipr
+
+# Eclipse Project Files
+
+.classpath
+.project
+.settings/
+
+# DB
+
+*.db
