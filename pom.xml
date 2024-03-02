@@ -22,7 +22,7 @@
         <junit.version>4.13.1</junit.version>
         <mockito.version>3.2.4</mockito.version>
         <assertj.version>3.14.0</assertj.version>
-        <wiremock.version>2.25.1</wiremock.version>
+        <wiremock.version>2.35.1</wiremock.version>
         <unirest.version>1.4.9</unirest.version>
     </properties>
 
